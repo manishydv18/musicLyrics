@@ -4,7 +4,7 @@ const Navbar = () => {
     return (
       <React.Fragment>
           <nav className="navbar navbar-dark bg-dark mb-5">
-              <span className = "navbar-brand mb-0 h1 mx-auto">Music Infi</span>
+              <span className = "navbar-brand mb-0 h1 mx-auto">Music Lyrics</span>
           </nav>
       </React.Fragment>
     )
