@@ -1,4 +1,5 @@
-
+This project is online at this link:
+https://musiclyricals.herokuapp.com/
 
 This provide you a complete running of this website
 It is deployed on Herokuapp .It is very easy way to deployed your project
