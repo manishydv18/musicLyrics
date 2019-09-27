@@ -1,5 +1,4 @@
-You can check this app online at:
-https://musicinfi.herokuapp.com/
+
 
 This provide you a complete running of this website
 It is deployed on Herokuapp .It is very easy way to deployed your project
